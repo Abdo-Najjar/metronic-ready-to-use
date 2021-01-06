@@ -9842,10 +9842,10 @@ tiny-lr@^1.1.1:
     object-assign "^4.1.0"
     qs "^6.4.0"
 
-tinymce@^5.0.16:
-  version "5.2.1"
-  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.2.1.tgz#8e6113e8492c2c31b3bec044ddae32bca432ac50"
-  integrity sha512-X/riqIrSOyB/pF6J993ICuDbSU/dL89XfhSdmroojbdBIT73wZF2dMPTfwtL5Hn0G5vBLefMDqLwESVuiPLEPg==
+tinymce@^5.6.0:
+  version "5.6.0"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.6.0.tgz#b5eda4888e1a607ddd545619cfaa137d59de14b4"
+  integrity sha512-f8LsyT80j8hD4wrL8Sac0DWDG5k10cDyykL/qkJ6kexn1KMt7w1ByrGlUm53XCYDqtavBA5snTU7odioMwSXSQ==
 
 to-absolute-glob@^2.0.0:
   version "2.0.2"
